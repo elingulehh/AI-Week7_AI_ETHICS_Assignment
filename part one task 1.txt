@@ -1,0 +1,53 @@
+ Part 1: Essay Questions
+Q1: Explain how Edge AI reduces latency and enhances privacy compared to cloud-based AI. Provide a real-world example.
+Answer:
+
+Edge AI refers to running artificial intelligence algorithms directly on edge devices (e.g., smartphones, sensors, drones), rather than sending data to centralized cloud servers for processing.
+
+Latency Reduction:
+Because data is processed locally, there's no need for round-trip communication with the cloud. This significantly reduces response time, making Edge AI ideal for real-time applications. For example, in autonomous drones, the drone can detect obstacles and make navigational decisions instantly, without relying on cloud instructions.
+
+Enhanced Privacy:
+Data stays on the device, reducing the risk of data interception or breaches during transmission. This is crucial in sensitive environments like healthcare wearables or home surveillance systems, where personal data is involved.
+
+Real-World Example:
+Autonomous agricultural drones use Edge AI to identify pests and spray specific areas of a farm. The AI model runs on the drone itself, enabling real-time decision-making without sending video feeds to the cloud—saving bandwidth and protecting farm data.
+
+Q2: Compare Quantum AI and classical AI in solving optimization problems. What industries could benefit most from Quantum AI?
+Answer:
+
+Classical AI relies on binary computing and is effective in solving many real-world optimization problems. However, when the problem size grows exponentially (e.g., logistics, molecular design), classical AI becomes computationally expensive or even infeasible.
+
+Quantum AI leverages quantum bits (qubits) and principles like superposition and entanglement, enabling it to explore multiple solutions simultaneously. This allows it to solve complex optimization problems exponentially faster than classical methods.
+
+Industries that would benefit the most:
+
+Pharmaceuticals: Accelerating drug discovery through molecular optimization.
+
+Finance: Portfolio optimization and risk analysis.
+
+Logistics: Optimizing global supply chains (e.g., vehicle routing, resource allocation).
+
+Energy: Smart grid optimization and energy forecasting.
+
+Quantum AI holds the promise to revolutionize problem-solving where traditional systems hit performance walls.
+
+Q3: Discuss the societal impact of Human-AI collaboration in healthcare. How might it transform roles like radiologists or nurses?
+Answer:
+
+Human-AI collaboration in healthcare enhances medical professionals’ capabilities rather than replacing them. AI systems can rapidly analyze medical data—like radiology images, genetic profiles, or patient vitals—providing decision support, not decisions.
+
+Impact on Radiologists:
+AI can detect subtle patterns in X-rays or MRIs (e.g., early tumors) faster and sometimes more accurately than the human eye. Radiologists can use AI as a second reader, reducing diagnostic errors and improving patient outcomes.
+
+Impact on Nurses:
+AI can monitor real-time patient vitals, detect anomalies, and trigger alerts. This reduces nurses' administrative burden, allowing them to focus more on human-centered care and emergency response.
+
+Societal Benefits:
+
+Improved access to care through telemedicine and AI diagnostics.
+
+Reduced burnout for healthcare workers.
+
+Equitable care, if implemented ethically with diverse datasets.
+
